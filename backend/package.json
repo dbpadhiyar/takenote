@@ -1,0 +1,17 @@
+{
+  "name": "takenote-backend",
+  "version": "1.0.0",
+  "description": "takenote is cloud based note ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.7.1",
+    "nodemon": "^2.0.20"
+  }
+}
